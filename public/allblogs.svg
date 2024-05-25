@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+    id="svg1"
+    inkscape:version="0.41"
+    viewBox="0 0 60 60"
+    sodipodi:version="0.32"
+    _SVGFile__filename="oldscale/apps/addressbook.svg"
+    version="1.0"
+    y="0"
+    x="0"
+    sodipodi:docname="addressbook.svg"
+    sodipodi:docbase="/home/danny/work/icons/primary/scalable/apps"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:window-x="0"
+      inkscape:window-y="0"
+      pagecolor="#ffffff"
+      inkscape:zoom="5.5303505"
+      inkscape:pageshadow="2"
+      borderopacity="1.0"
+      inkscape:current-layer="svg1"
+      inkscape:cx="44.338660"
+      inkscape:cy="19.578109"
+      inkscape:window-width="1020"
+      inkscape:pageopacity="0.0"
+      inkscape:window-height="691"
+  />
+  <path
+      id="path1723"
+      style="stroke-linejoin:round;stroke:#ffffff;stroke-width:10;fill:none"
+      d="m8.4062 5.7812c-0.3547 0.2255-0.5624 0.6808-0.5624 1.2813v35.438c0 1.201 0.8814 2.584 1.9687 3.094l18.282 8.594c1.022 0.479 1.809-0.04 1.906-1.094 0.097 1.056 0.884 1.573 1.906 1.094l18.282-8.594c1.087-0.51 1.968-1.891 1.968-3.094v-35.438c0-1.2025-0.881-1.7596-1.968-1.2495l-18.282 8.5935c-1.03 0.484-1.821 1.751-1.906 2.906-0.085-1.153-0.876-2.422-1.906-2.906l-18.282-8.5935c-0.5432-0.255-1.051-0.2567-1.4058-0.0313z"
+  />
+  <g
+      id="g1719"
+      transform="translate(.94402 -1.029)"
+    >
+    <path
+        id="rect602"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-width:5;fill:#ffe940"
+        d="m30.956 15.428c-1.088 0.51-1.963 1.889-1.963 3.092v35.444c0 1.203 0.875 1.761 1.963 1.251l18.301-8.585c1.087-0.51 1.962-1.89 1.962-3.093v-35.444c0-1.2031-0.875-1.7609-1.962-1.2508l-18.301 8.5858z"
+    />
+    <path
+        id="rect603"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-width:5;fill:#fff591"
+        d="m27.156 15.428c1.088 0.51 1.963 1.888 1.963 3.089v35.451c0 1.201-0.875 1.758-1.963 1.247l-18.301-8.585c-1.0869-0.51-1.9622-1.888-1.9622-3.089v-35.451c0-1.2014 0.8753-1.7576 1.9626-1.2475l18.301 8.5855z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
