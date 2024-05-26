@@ -108,9 +108,11 @@ const Addfood = () => {
                     <option value="Business" className="form-control-urdu">Business</option>
                     <option value="Health" className="form-control-urdu">Health</option>
                     <option value="Crypto" className="form-control-urdu">Crypto</option>
-                    <option value="Abode" className="form-control-urdu">Abode</option>
-                    <option value="Cbc" className="form-control-urdu">Cbc</option>
+                    <option value="Technology" className="form-control-urdu">Technology</option>
+                    <option value="CBD" className="form-control-urdu">CBD</option>
                     <option value="E-Commerce" className="form-control-urdu">E-Commerce</option>
+                    <option value="Casino" className="form-control-urdu">Casino</option>
+                    <option value="Fashion" className="form-control-urdu">Fashion</option>
                 </select>
             </div>
 
